@@ -7,16 +7,17 @@ en:
   languageCode: "en-us"
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: "content/en"
+  title = "Carlos' Portfolio"
 
 # Uncomment the lines below to configure your website in a second language.
 es:
-  languageCode: "es"
+  languageCode: "es-pa"
   contentDir: "content/es"
-  title: "Chinese website title..."
+  title = "Portfolio de Carlos"
   params:
-    description: "Site description in Chinese..."
+    description: "Portfolio de Carlos"
   menu:
     main:
-      - name: "传"
+      - name: "Sobre mí"
         url: '#about'
         weight: 1
