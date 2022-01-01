@@ -34,12 +34,6 @@ feature:
 - icon: html5
   icon_pack: fab
   name: HTML
-- icon: analytics
-  icon_pack: fab
-  name: Statistics
-- icon: head-side-brain
-  icon_pack: fab
-  name: Analytical thinking
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
