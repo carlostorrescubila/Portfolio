@@ -27,13 +27,19 @@ feature:
   name: Git
 - icon: aws
   icon_pack: fab
-  name: AWS
+  name: Amazon Web Service
 - icon: markdown
   icon_pack: fab
   name: Markdown
 - icon: html5
   icon_pack: fab
   name: HTML
+- icon: analytics
+  icon_pack: fab
+  name: Statistics
+- icon: head-side-brain
+  icon_pack: fab
+  name: Analytical thinking
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
