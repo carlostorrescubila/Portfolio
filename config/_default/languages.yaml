@@ -14,7 +14,7 @@ es:
   contentDir: content/es
   title: Portfolio de Carlos
   params:
-    description: Portfolio de Carlos
+    description: Carlos A. Torres Cubilla
   menu:
     main:
       - name: Sobre mí
@@ -24,13 +24,13 @@ es:
         url: '#accomplishments'
         weight: 2
       - name: Proyectos
-        url: '#portfolio'
+        url: '#projects'
         weight: 3
       - name: Charlas
         url: '#talks'
         weight: 4
       - name: Publicaciones
-        url: '#pages'
+        url: '#publications'
         weight: 5
       - name: Contacto
         url: '#contact'
