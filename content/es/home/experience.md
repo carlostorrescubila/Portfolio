@@ -25,7 +25,7 @@ experience:
   - title: Científico de datos
     company: Banco General
     company_url: 'https://www.bgeneral.com/'
-    company_logo: org-gc
+    company_logo: banco-general
     location: Ciudad de Panamá, Panamá
     date_start: '2021-01-04'
     date_end: ''
@@ -40,7 +40,7 @@ experience:
   - title: Científico de datos en prácticas
     company: STAT-UP
     company_url: 'https://stat-up.com/en/'
-    company_logo: org-x
+    company_logo: stat-up
     location: Múnich, Alemania
     date_start: '2020-02-01'
     date_end: '2020-04-30'
