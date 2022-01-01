@@ -4,17 +4,17 @@
 
 # Default language
 [en]
-  languageCode: en-us
-  contentDir: content/en
-  title: Carlos' Portfolio
+  languageCode: "en-us"
+  contentDir: "content/en"
+  title: "Carlos' Portfolio"
 
 # Uncomment the lines below to configure your website in a second language.
 [es]
-  languageCode: es-pa
-  contentDir: content/es
-  title: Portfolio de Carlos
+  languageCode: "es-pa"
+  contentDir: "content/es"
+  title: "Portfolio de Carlos"
   es.params:
-    description: Site description in English...
+    description: "Site description in English..."
   es.menu:
     main:
       - name: "Sobre mí"
