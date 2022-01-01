@@ -25,7 +25,7 @@ experience:
   - title: Científico de datos
     company: Banco General
     company_url: 'https://www.bgeneral.com/'
-    company_logo: banco-general
+    company_logo: banco-general-2
     location: Ciudad de Panamá, Panamá
     date_start: '2021-01-04'
     date_end: ''
