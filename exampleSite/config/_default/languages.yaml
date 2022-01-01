@@ -3,19 +3,19 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
-en:
+[en]
   languageCode: en-us
   contentDir: content/en
   title: Carlos' Portfolio
 
 # Uncomment the lines below to configure your website in a second language.
-es:
+[es]
   languageCode: es-pa
   contentDir: content/es
   title: Portfolio de Carlos
-  params:
+  es.params:
     description: Site description in English...
-  menu:
+  es.menu:
     main:
       - name: "Sobre mí"
         url: '#about'
