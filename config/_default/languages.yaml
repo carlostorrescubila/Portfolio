@@ -3,17 +3,17 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
-[en]
+en:
   languageCode: "en-us"
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: "content/en"
-  title = "Carlos' Portfolio"
+  title: "Carlos' Portfolio"
 
 # Uncomment the lines below to configure your website in a second language.
-[es]
+es:
   languageCode: "es-pa"
   contentDir: "content/es"
-  title = "Portfolio de Carlos"
+  title: "Portfolio de Carlos"
   params:
     description: "Portfolio de Carlos"
   menu:
