@@ -4,20 +4,34 @@
 
 # Default language
 en:
-  languageCode: "en-us"
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: "content/en"
-  title: "Carlos' Portfolio"
+  languageCode: en-us
+  contentDir: content/en
+  title: Carlos' Portfolio
 
-# Uncomment the lines below to configure your website in a second language.
+# Second language
 es:
-  languageCode: "es-pa"
-  contentDir: "content/es"
-  title: "Portfolio de Carlos"
+  languageCode: es-pa
+  contentDir: content/es
+  title: Portfolio de Carlos
   params:
-    description: "Portfolio de Carlos"
+    description: Portfolio de Carlos
   menu:
     main:
-      - name: "Sobre mí"
+      - name: Sobre mí
         url: '#about'
         weight: 1
+      - name: Logros
+        url: '#accomplishments'
+        weight: 2
+      - name: Proyectos
+        url: '#portfolio'
+        weight: 3
+      - name: Charlas
+        url: '#talks'
+        weight: 4
+      - name: Publicaciones
+        url: '#pages'
+        weight: 5
+      - name: Contacto
+        url: '#contact'
+        weight: 6
