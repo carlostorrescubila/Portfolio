@@ -27,7 +27,7 @@ item:
   date_end: ""
   date_start: "2019-04-01"
   description: ""
-  organization: UC3M
+  organization: Universidad-Carlos-III-de-Madrid
   organization_url: https://www.uc3m.es/postgrado/escuela-formacion-continua
   title: Expe(R)iencias temas en las cienCIAS de datos con R
   url: "https://www.uc3m.es/ss/Satellite/Postgrado/es/TextoDosColumnas/1371264178837/Curso_Expe(R)iencias_temas_en_las_cienCIAS_de_datos_con_R:"
@@ -54,7 +54,7 @@ item:
   date_end: "2018-03-23"
   date_start: "2018-03-05"
   description: 
-  organization: Universidad de Salamanca
+  organization: Universidad-de-Salamanca
   organization_url: https://formacionpermanente.usal.es/
   title: Recursos de búsqueda y recopilación de información en internet
   url: https://bisite.usal.es/es/formacion/cursos/busqueda
