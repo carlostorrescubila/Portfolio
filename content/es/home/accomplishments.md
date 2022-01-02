@@ -46,7 +46,7 @@ item:
   date_end: "2018-04-09"
   date_start: "2018-03-05"
   description: 
-  organization: USAL
+  organization: Universidad de Salamanca
   organization_url: https://formacionpermanente.usal.es/
   title: Introducción a la Inteligencia Artificial. Aprendizaje automático y redes neuronales
   url: https://bisite.usal.es/es/formacion/cursos/int-artificial
@@ -55,7 +55,7 @@ item:
   date_end: "2018-03-23"
   date_start: "2018-03-05"
   description: 
-  organization: "Universidad de Salamanca"
+  organization: Universidad de Salamanca
   organization_url: https://formacionpermanente.usal.es/
   title: Recursos de búsqueda y recopilación de información en internet
   url: https://bisite.usal.es/es/formacion/cursos/busqueda
