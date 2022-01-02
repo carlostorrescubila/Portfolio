@@ -39,7 +39,7 @@ experience:
         
   - title: Científico de datos en prácticas
     company: STAT-UP
-    company_url: 'https://stat-up.com/en/'
+    company_url: 'https://stat-up.com/es/'
     company_logo: stat-up
     location: Múnich, Alemania
     date_start: '2020-02-01'
