@@ -36,7 +36,7 @@ item:
   date_end: "2018-07-20"
   date_start: "2018-07-16"
   description: 
-  organization: usal
+  organization: USAL
   organization_url: https://formacionpermanente.usal.es/
   title: "Estadística para investigadores: Prácticas con SPSS/R"
   url: 
