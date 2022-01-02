@@ -28,6 +28,7 @@ item:
   date_start: "2019-04-01"
   description: ""
   organization: Universidad Carlos III de Madrid
+  organization_logo: universidad-de-salamanca
   organization_url: https://www.uc3m.es/postgrado/escuela-formacion-continua
   title: Expe(R)iencias temas en las cienCIAS de datos con R
   url: "https://www.uc3m.es/ss/Satellite/Postgrado/es/TextoDosColumnas/1371264178837/Curso_Expe(R)iencias_temas_en_las_cienCIAS_de_datos_con_R:"
@@ -37,6 +38,7 @@ item:
   date_start: "2018-07-16"
   description: 
   organization: Universidad de Salamanca
+  organization_logo: universidad-de-salamanca
   organization_url: https://formacionpermanente.usal.es/
   title: "Estadística para investigadores: Prácticas con SPSS/R"
   url: 
