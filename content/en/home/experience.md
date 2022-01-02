@@ -52,7 +52,7 @@ experience:
         * Created interactive HTML reports with R for reporting statistical analysis
     
   - title: Statistic intern
-    company: University of Salamanca
+    company: Department of Statistics of the University of Salamanca
     company_url: 'http://biplot.dep.usal.es/'
     company_logo: usal
     location: Salamanca, Spain

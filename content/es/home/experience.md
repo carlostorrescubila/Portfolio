@@ -52,7 +52,7 @@ experience:
         * Crear informes HTML interactivos con R para informes de análisis estadístico
 
   - title: Estadístico en prácticas
-    company: Universidad de Salamanca
+    company: Departamento de Estadística de la Universidad de Salamanca
     company_url: 'http://biplot.dep.usal.es/'
     company_logo: usal
     location: Salamanca, España
