@@ -2,8 +2,8 @@
 title: SparseBiplots
 summary: R package that performs the HJ-Biplot and modifications introducing Ridge, LASSO and Elastic Net penalty.
 tags:
+- R
 - Library
-- R Package
 - Biplot
 - Multivariate Analysis
 date: "2021-10-23"

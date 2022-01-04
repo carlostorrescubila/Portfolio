@@ -27,10 +27,16 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: R
+    tag: R
+  - name: Python
+    tag: Python
   - name: Library
     tag: Library
   - name: Web App
     tag: Web App
+  - name: Machine Learning
+    tag: Machine Learning
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -41,7 +47,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  view: 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
