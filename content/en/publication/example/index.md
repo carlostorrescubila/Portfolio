@@ -38,7 +38,7 @@ abstract: The HJ biplot is a multivariate analysis technique that allows us to r
 # Summary. An optional shortened abstract.
 summary: New proposal for obtaining the HJ biplot by applying the elastic net penalty to improve the interpretation of the results.
 
-tags: ["biplot", "sparse", "PCA",  "regularization",  "elastic net",  "multivariate analysis",  "R Software", "TCGA", "breast cancer"]
+tags: ["Biplot", "Sparse", "PCA",  "Regularization",  "Elastic-net",  "Multivariate Analysis",  "R Software", "TCGA", "Breast Cancer"]
 
 # Display this page in the Featured widget?
 featured: false
