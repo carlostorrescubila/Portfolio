@@ -16,7 +16,7 @@ site_type: Person
 local_business_type: ''
 org_name: ''
 description: ''
-twitter: ''
+twitter: 'carlos_tc22'
 
 # Contact (edit or remove options as required)
 
@@ -36,11 +36,6 @@ directions:
 office_hours:
 appointment_url:
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow Me
-    link: 'https://twitter.com/carlos_tc22'
-
 # Site header
 
 main_menu:
@@ -64,7 +59,7 @@ highlight: true
 highlight_languages:
   - r
 math: false
-diagram: false
+diagram: true
 privacy_pack: false
 edit_page:
   repo_url: ''
@@ -127,7 +122,8 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: 'OpenStreetMap (Mapnik)'
+  engine: 2
+  provider: 'OpenStreetMap'
   api_key: ''
   zoom: 15
 marketing:
