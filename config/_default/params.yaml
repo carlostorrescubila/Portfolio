@@ -127,7 +127,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: '1'
+  provider: 2
   api_key: ''
   zoom: 15
 marketing:
