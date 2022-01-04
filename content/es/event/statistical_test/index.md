@@ -12,8 +12,8 @@ address:
   postcode: 
   country: España
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Taller que le ayudará a utilizar algunas pruebas estadísticas univariantes en Python.
+abstract: "La estadística es la gramática de la ciencia (Pearson). Por esta razón hemos propuesto este worshop que le ayudará a utilizar algunas pruebas de estadística univariante en Python."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -44,7 +44,7 @@ links:
   name: Diapositivas
   url: https://github.com/pydatasalamanca/PipelinesStylometryStatsTests/blob/master/Statistical%20Tests%20with%20Scipy.pdf
 - icon: github
-  icon_pack: fas
+  icon_pack: fab
   name: Repositorio
   url: https://github.com/pydatasalamanca/PipelinesStylometryStatsTests
 - icon: certificate
@@ -61,13 +61,12 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- example
+projects: []
 ---
