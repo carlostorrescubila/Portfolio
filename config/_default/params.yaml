@@ -38,7 +38,7 @@ appointment_url:
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: Follow Me
     link: 'https://twitter.com/carlos_tc22'
 
 # Site header
@@ -127,7 +127,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: 2
+  provider: 'OpenStreetMap (Mapnik)'
   api_key: ''
   zoom: 15
 marketing:
