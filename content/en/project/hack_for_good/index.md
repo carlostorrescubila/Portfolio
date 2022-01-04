@@ -3,7 +3,9 @@ title: HackForGood 2019
 summary: Project carried out to solve the challenge of Artificial Intelligence for the improvement of the Health System.
 tags:
 - Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Machine Learning
+- Heart Diseases
+date: "2019-03-23"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
