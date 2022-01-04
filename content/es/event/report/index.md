@@ -1,6 +1,7 @@
 ---
 title: Reportando resultados estadísticos con 'report'
-event: R ladies Cuernavaca
+
+event: R-Ladies Cuernavaca
 event_url: https://www.meetup.com/es/rladies-cuernavaca/
 
 location: 
@@ -11,13 +12,13 @@ address:
   postcode: ''
   country: 'Mexico'
 
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Charla del uso de `report` para aprender a automatizar los resultados de un análisis estadístico en R.
+abstract: "En esta sesión aprendimos a automatizar los resultados de un análisis estadístico en R para crear informes estandarizados y fáciles de entender. Para ello, utilizamos el paquete `report`. Se trata de un paquete perteneciente al `easyverse` que fue creado para vincular los resultados del análisis obtenidos en R con un manuscrito."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-05-05"
-date_end: "2021-05-05"
+date: "2021-05-06"
+date_end: ""
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -34,6 +35,14 @@ image:
   focal_point: Right
 
 links:
+- icon: calendar-day
+  icon_pack: fas
+  name: Evento
+  url: https://www.meetup.com/rladies-cuernavaca/events/277847239/
+- icon: file
+  icon_pack: far
+  name: Diapositivas
+  url: https://rladiescuerna.github.io/meetup_2021_mayo/slides/slides-report.html#1
 - icon: youtube
   icon_pack: fab
   name: Video

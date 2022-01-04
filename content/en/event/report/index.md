@@ -1,7 +1,7 @@
 ---
 title: Reporting statistical results with 'report'
 
-event: R ladies Cuernavaca
+event: R-Ladies Cuernavaca
 event_url: https://www.meetup.com/es/rladies-cuernavaca/
 
 location: 
@@ -12,8 +12,8 @@ address:
   postcode: ''
   country: 'Mexico'
 
-summary: Talk about using 'report' to learn how to automate the results of a statistical analysis in R.
-abstract: "In this session we learned how to automate the results of a statistical analysis in R to create standardized and easy to understand reports. For this, we used the report package. This is a package belonging to the easyverse that was created to link the results of the analysis obtained in R with a manuscript."
+summary: Talk about using `report` to learn how to automate the results of a statistical analysis in R.
+abstract: "In this session we learned how to automate the results of a statistical analysis in R to create standardized and easy to understand reports. For this, we used the `report` package. This is a package belonging to the `easyverse` that was created to link the results of the analysis obtained in R with a manuscript."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -36,9 +36,13 @@ image:
 
 links:
 - icon: calendar-day
-  icon_pack: fab
+  icon_pack: fas
   name: Event
   url: https://www.meetup.com/rladies-cuernavaca/events/277847239/
+- icon: file
+  icon_pack: far
+  name: Slides
+  url: https://rladiescuerna.github.io/meetup_2021_mayo/slides/slides-report.html#1
 - icon: youtube
   icon_pack: fab
   name: Video
