@@ -36,6 +36,7 @@ directions:
 office_hours:
 appointment_url:
 contact_links:
+
 # Site header
 
 main_menu:
@@ -59,7 +60,7 @@ highlight: true
 highlight_languages:
   - r
 math: false
-diagram: true
+diagram: false
 privacy_pack: false
 edit_page:
   repo_url: ''
@@ -122,8 +123,10 @@ search:
     index_name: ''
     show_logo: false
 map:
+  latitude: '8.980971063855193'
+  longitude: '-79.52416712329604'
   engine: 2
-  provider: 'OpenStreetMap'
+  provider: 'OpenStreetMap (Mapnik)'
   api_key: ''
   zoom: 15
 marketing:
