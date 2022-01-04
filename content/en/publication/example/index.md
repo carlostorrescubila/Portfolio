@@ -1,49 +1,76 @@
 ---
-title: "An example conference paper"
+title: "Sparse HJ Biplot: A New Methodology via Elastic Net"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Mitzi Cubilla-Montilla
+- Ana Belén Nieto-Librero
+- M. Purificación Galindo-Villardón
 - admin
-- Robert Ford
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2021-06-05"
+doi: "10.3390/math9111298"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: "*Mathematics*, 9(11)"
+publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The HJ biplot is a multivariate analysis technique that allows us to represent both individuals and variables in a space of reduced dimensions. To adapt this approach to massive datasets,
+it is necessary to implement new techniques that are capable of reducing the dimensionality of the
+data and improving interpretation. Because of this, we propose a modern approach to obtaining
+the HJ biplot called the elastic net HJ biplot, which applies the elastic net penalty to improve the
+interpretation of the results. It is a novel algorithm in the sense that it is the first attempt within the
+biplot family in which regularisation methods are used to obtain modified loadings to optimise the
+results. As a complement to the proposed method, and to give practical support to it, a package
+has been developed in the R language called SparseBiplots. This package fills a gap that exists in
+the context of the HJ biplot through penalized techniques since in addition to the elastic net, it also
+includes the ridge and lasso to obtain the HJ biplot. To complete the study, a practical comparison is
+made with the standard HJ biplot and the disjoint biplot, and some results common to these methods
+are analysed.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: New proposal for obtaining the HJ biplot by applying the elastic net penalty to improve the interpretation of the results.
 
-tags: []
+tags: ["biplot", "multivariate"]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
+- icon: pager
+  icon_pack: fas
+  name: Journal
+  url: https://www.mdpi.com/journal/mathematics
+- icon: file-pdf
+  icon_pack: fas
+  name: PDF
+  url: https://www.mdpi.com/2227-7390/9/11/1298/pdf
+- icon: doi
+  icon_pack: ai
+  name: DOI
+  url: https://doi.org/10.3390/math9111298
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -56,7 +83,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -65,23 +92,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: []
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

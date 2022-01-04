@@ -36,6 +36,10 @@ directions:
 office_hours:
 appointment_url:
 contact_links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow me
+  url: https://github.com/RLadiesCuerna/meetup_2021_mayo
 
 # Site header
 
@@ -123,11 +127,9 @@ search:
     index_name: ''
     show_logo: false
 map:
-  latitude: '8.980971063855193'
-  longitude: '-79.52416712329604'
   engine: 2
-  provider: 'OpenStreetMap (Mapnik)'
-  api_key: ''
+  provider:
+  api_key:
   zoom: 15
 marketing:
   google_analytics: ''
