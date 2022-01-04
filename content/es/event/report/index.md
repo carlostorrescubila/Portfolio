@@ -1,5 +1,5 @@
 ---
-title: Reportando resultados estadísticos con 'report'
+title: Reportando resultados estadísticos con `report`
 
 event: R-Ladies Cuernavaca
 event_url: https://www.meetup.com/es/rladies-cuernavaca/
@@ -43,6 +43,10 @@ links:
   icon_pack: far
   name: Diapositivas
   url: https://rladiescuerna.github.io/meetup_2021_mayo/slides/slides-report.html#1
+- icon: github
+  icon_pack: fas
+  name: Repositorio
+  url: https://github.com/RLadiesCuerna/meetup_2021_mayo
 - icon: youtube
   icon_pack: fab
   name: Video
