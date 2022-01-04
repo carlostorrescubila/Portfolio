@@ -18,7 +18,7 @@ author_notes:
 - "Equal contribution"
 
 date: "2021-06-05"
-doi: "10.3390/math9111298"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -49,14 +49,14 @@ links:
   icon_pack: fas
   name: Journal
   url: https://www.mdpi.com/journal/mathematics
-- icon: file-pdf
-  icon_pack: fas
-  name: PDF
-  url: https://www.mdpi.com/2227-7390/9/11/1298/pdf
 - icon: doi
   icon_pack: ai
   name: DOI
   url: https://doi.org/10.3390/math9111298
+- icon: file-pdf
+  icon_pack: fas
+  name: PDF
+  url: https://www.mdpi.com/2227-7390/9/11/1298/pdf
 url_pdf: ''
 url_code: ''
 url_dataset: ''
