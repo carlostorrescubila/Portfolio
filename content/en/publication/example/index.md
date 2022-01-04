@@ -44,10 +44,7 @@ tags: ["biplot", "multivariate"]
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
+links:
 - icon: pager
   icon_pack: fas
   name: Journal
