@@ -12,13 +12,13 @@ address:
   postcode: 
   country: Spain
 
-summary: Talk about the project that won us the first place in HackForGood Salamanca 2019."
+summary: Talk about the project that won us the first place in HackForGood Salamanca 2019.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2019-05-20"
 date_end: "2019-05-22"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: ""
