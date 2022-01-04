@@ -1,6 +1,5 @@
 ---
-title: Reporting statistical results with 'report'
-
+title: Reportando resultados estadísticos con 'report'
 event: R ladies Cuernavaca
 event_url: https://www.meetup.com/es/rladies-cuernavaca/
 
@@ -12,13 +11,13 @@ address:
   postcode: ''
   country: 'Mexico'
 
-summary: Talk about using 'report' to learn how to automate the results of a statistical analysis in R.
-abstract: "In this session we learned how to automate the results of a statistical analysis in R to create standardized and easy to understand reports. For this, we used the report package. This is a package belonging to the easyverse that was created to link the results of the analysis obtained in R with a manuscript."
+summary: An example talk using Academic's Markdown slides feature.
+abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-05-06"
-date_end: ""
+date: "2021-05-05"
+date_end: "2021-05-05"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -35,17 +34,13 @@ image:
   focal_point: Right
 
 links:
-- icon: calendar-day
-  icon_pack: fab
-  name: Event
-  url: https://www.meetup.com/rladies-cuernavaca/events/277847239/
 - icon: youtube
   icon_pack: fab
   name: Video
   url: https://www.youtube.com/watch?v=8bC8rmd-oNA&t=2693s
 - icon: certificate
   icon_pack: fas
-  name: Certificate
+  name: Certificado
   url: https://drive.google.com/file/d/13zPGyF1iCpds3Xol9vBzHSnK9E6Gkwbs/view?usp=sharing
 url_code: ""
 url_pdf: ""
