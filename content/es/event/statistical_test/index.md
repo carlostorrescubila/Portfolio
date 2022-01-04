@@ -1,5 +1,5 @@
 ---
-title: Statistical Test with SciPy
+title: Test Estadísticos con SciPy
 
 event: PyData Salamanca
 event_url: https://www.meetup.com/es/PyData-Salamanca/
