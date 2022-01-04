@@ -1,10 +1,10 @@
 ---
-title: Statistical Test with SciPy
+title: Talking about the HackForGood
 
-event: PyData Salamanca
-event_url: https://www.meetup.com/es/PyData-Salamanca/
+event: Pint of Science
+event_url: 
 
-location: Medialab USAL
+location: 
 address:
   street:
   city: Salamanca
@@ -12,14 +12,13 @@ address:
   postcode: 
   country: Spain
 
-summary: Worshop that would help you to use some univariate statistics test in Python.
-abstract: "Statistics is the grammar of Science (Pearson). For this reason we proposed this worshop that would help you to use some univariate statistics test in Python."
+summary: Talk about the project that won us the first place in HackForGood Salamanca 2019."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-06-09"
-date_end: ""
-all_day: true
+date: "2019-05-20"
+date_end: "2019-05-22"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: ""
@@ -38,19 +37,11 @@ links:
 - icon: calendar-day
   icon_pack: fas
   name: Event
-  url: https://www.meetup.com/es-ES/PyData-Salamanca/events/260540624/
-- icon: file
-  icon_pack: far
-  name: Slides
-  url: https://github.com/pydatasalamanca/PipelinesStylometryStatsTests/blob/master/Statistical%20Tests%20with%20Scipy.pdf
-- icon: github
-  icon_pack: fab
-  name: Repository
-  url: https://github.com/pydatasalamanca/PipelinesStylometryStatsTests
+  url: https://pintofscience.es/
 - icon: certificate
   icon_pack: fas
   name: Certificate
-  url: https://drive.google.com/file/d/1S2LVBazEc7teAaE_FnOmNpUlU90lX544/view?usp=sharing
+  url: https://drive.google.com/file/d/0B7yzdA9SOWqobVZic1JkV29nUmRLcl9mTnFNX2FHQnhWcUlj/view?usp=sharing&resourcekey=0-U0ddp3zHsH6SOO6IoEHQ6A
 url_code: ""
 url_pdf: ""
 url_slides: ""
