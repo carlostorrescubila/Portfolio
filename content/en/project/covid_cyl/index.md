@@ -16,7 +16,7 @@ image:
 
 links:
 - icon: laptop-code
-  icon_pack: far
+  icon_pack: fas
   name: Competition
   url: https://datosabiertos.jcyl.es/web/es/concurso-datos-abiertos/concurso-datos-abiertos.html
 - icon: desktop
