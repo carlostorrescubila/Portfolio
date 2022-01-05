@@ -1,6 +1,6 @@
 ---
 title: HackForGood 2019
-summary: Project carried out to solve the challenge of Artificial Intelligence for the improvement of the Health System.
+summary:  para resolver el reto de Inteligencia Artificial para la mejora del Sistema Sanitario.
 tags:
 - Python
 - Deep Learning
@@ -18,7 +18,7 @@ image:
 links:
 - icon: calendar-day
   icon_pack: fas
-  name: Event
+  name: Evento
   url: https://hackforgood.net/
 - icon: file
   icon_pack: far
@@ -26,7 +26,7 @@ links:
   url: 
 - icon: github
   icon_pack: fab
-  name: Repository
+  name: Repositorio
   url: https://github.com/datalabusal2018/MedicalDataLab-HackForGood2019
 url_code: ""
 url_pdf: ""

@@ -1,12 +1,12 @@
 ---
-title: HackForGood 2019
-summary: Project carried out to solve the challenge of Artificial Intelligence for the improvement of the Health System.
+title: PyBiplots
+summary: Python package that performs the classic biplots methods.
 tags:
 - Python
-- Deep Learning
-- Machine Learning
-- Heart Diseases
-date: "2019-03-23"
+- Library
+- Biplot
+- Multivariate Analysis
+date: "2020-07-14"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,18 +16,14 @@ image:
   focal_point: Smart
 
 links:
-- icon: calendar-day
-  icon_pack: fas
-  name: Event
-  url: https://hackforgood.net/
-- icon: file
-  icon_pack: far
-  name: Slides
-  url: 
+- icon: python
+  icon_pack: fab
+  name: Anaconda
+  url: https://anaconda.org/carlos_t22/pybiplots
 - icon: github
   icon_pack: fab
   name: Repository
-  url: https://github.com/datalabusal2018/MedicalDataLab-HackForGood2019
+  url: https://github.com/carlostorrescubila/PyBiplots
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -41,3 +37,4 @@ url_video: ""
 slides: ""
 ---
 
+PyBiplots is a python package that performs the classic biplots methods. This methods are GH-Biplot, JK-Biplot and HJ-Biplot.
