@@ -13,6 +13,8 @@ address:
   country: España
 
 summary: Charla sobre el prooyecto ganador del primer puesto del *HackForGood* Salamanca 2019.
+abstract: Charla donde el equipo de MEDICAL DATALAB explica el desarrollo del proyecto que obtuvo el primer puesto en el HackForGood Salamanca 2019.
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
