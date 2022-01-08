@@ -62,3 +62,5 @@ slides: ""
 projects: 
 - hack_for_good
 ---
+
+Talk where the MEDICAL DATALAB team explains the development of the project that obtained the first place in the HackForGood Salamanca 2019.
