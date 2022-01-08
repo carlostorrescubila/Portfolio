@@ -66,7 +66,7 @@ highlight_name: true
 
 Carlos Torres is a data scientist at [Banco General](https://www.bgeneral.com/). His role is to create machine learning models that increase profits and sales of different products.
 
-He studied bachelor's and master's degrees at the [University of Salamanca](), where he learned about statistics, programming, and machine learning and participated in extracurricular activities such as volunteering and internships.
+He studied bachelor's and master's degrees at the [University of Salamanca](https://www.usal.es/), where he learned about statistics, programming, and machine learning and participated in extracurricular activities such as volunteering and internships.
 
 Carlos is currently focused on expanding his knowledge in Data Science and building a career as a researcher parallel to his career as a Data Scientist.
 
