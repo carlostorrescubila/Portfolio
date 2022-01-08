@@ -64,8 +64,10 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Carlos Torres es científico de datos en [Banco General](https://www.bgeneral.com/). Su principal función es la de crear modelos de machine learning que incrementen los beneficios y las ventas de los distintos productos.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Estudio la licenciatura y la maestría en la [Universidad de Salamanca](https://www.usal.es/), donde aprendió sobre estadística, programación y aprendizaje automático y participó en actividades extracurriculares como voluntariados y prácticas
+
+Carlos está enfocado en ampliar sus conocimientos en Ciencia de Datos y formarse una carrera como investigador en paralelo a su carrera como Científico de Datos.
 
 {{< icon name="download" pack="fas" >}} Descarga mi {{< staticref "uploads/Vitae_Carlos_Es.pdf" "newtab" >}} Curriculum {{< /staticref >}}.
