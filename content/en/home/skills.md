@@ -27,12 +27,13 @@ feature:
   name: Git
 - icon: aws
   icon_pack: fab
-  name: - icon: database
+  name: AWS
+- icon: database
   icon_pack: fas
   name: SQL
 - icon: users
   icon_pack: fas
-  name: Team Work
+  name: Teamwork
 - icon: database
   icon_pack: fas
   name: SQL
