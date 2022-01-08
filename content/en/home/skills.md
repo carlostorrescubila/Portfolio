@@ -27,7 +27,18 @@ feature:
   name: Git
 - icon: aws
   icon_pack: fab
-  name: Amazon Web Service
+  name: - icon: database
+  icon_pack: fas
+  name: SQL
+- icon: users
+  icon_pack: fas
+  name: Team Work
+- icon: database
+  icon_pack: fas
+  name: SQL
+- icon: users
+  icon_pack: fas
+  name: Teamwork
 - icon: markdown
   icon_pack: fab
   name: Markdown

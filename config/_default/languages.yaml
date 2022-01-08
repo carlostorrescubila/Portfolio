@@ -6,15 +6,15 @@
 en:
   languageCode: en-us
   contentDir: content/en
-  title: Carlos' Portfolio
+  title: Carlos Torres, Data Scientist
 
 # Second language
 es:
   languageCode: es-pa
   contentDir: content/es
-  title: Portfolio de Carlos
+  title: Carlos Torres, Científico de Datos
   params:
-    description: Carlos A. Torres Cubilla
+    description:
   menu:
     main:
       - name: Sobre mí
