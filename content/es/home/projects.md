@@ -31,9 +31,9 @@ content:
     tag: R
   - name: Python
     tag: Python
-  - name: Library
+  - name: Librerias
     tag: Library
-  - name: Web App
+  - name: Aplicaciones Web
     tag: Web App
   - name: Machine Learning
     tag: Machine Learning

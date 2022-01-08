@@ -1,6 +1,6 @@
 ---
 title: HackForGood 2019
-summary:  para resolver el reto de Inteligencia Artificial para la mejora del Sistema Sanitario.
+summary: Proyecto realizado para resolver el reto "Inteligencia Artificial para la mejora del Sistema Sanitario".
 tags:
 - Python
 - Deep Learning

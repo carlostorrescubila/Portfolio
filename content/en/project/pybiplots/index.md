@@ -1,6 +1,6 @@
 ---
 title: PyBiplots
-summary: Python package that performs the classic biplots methods.
+summary: Python library that performs the classic biplots methods.
 tags:
 - Python
 - Library
@@ -37,4 +37,4 @@ url_video: ""
 slides: ""
 ---
 
-PyBiplots is a python package that performs the classic biplots methods. This methods are GH-Biplot, JK-Biplot and HJ-Biplot.
+PyBiplots is a python library that performs the classic biplots methods. This methods are GH-Biplot, JK-Biplot and HJ-Biplot.

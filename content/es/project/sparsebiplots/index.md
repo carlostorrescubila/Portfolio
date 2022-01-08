@@ -1,6 +1,6 @@
 ---
 title: SparseBiplots
-summary: R package that performs the HJ-Biplot and modifications introducing Ridge, LASSO and Elastic Net penalty.
+summary: Paquete R que realiza el HJ-Biplot y las modificaciones introduciendo la penalización Ridge, LASSO y Elastic Net.
 tags:
 - R
 - Library
@@ -22,7 +22,7 @@ links:
   url: https://www.rdocumentation.org/packages/SparseBiplots/versions/4.0.1
 - icon: github
   icon_pack: fab
-  name: Repository
+  name: Repositorio
   url: https://github.com/mitzicubillamontilla/SparseBiplots
 url_code: ""
 url_pdf: ""
@@ -37,6 +37,6 @@ url_video: ""
 slides: ""
 ---
 
-Sparse Biplots are modern variant of HJ-Biplot which attempts to find sparse loadings, i.e., weight vectors with only a few nonzero values. Introducing a penalty parameter helps improve the interpretation of the model because the axis are formed as a linear combination of only some of the original variables.
+Los *Sparse Biplots* son una variante moderna del HJ-Biplot que intenta encontrar cargas dispersas, es decir, vectores de pesos con sólo unos pocos valores distintos de cero. La introducción de un parámetro de penalización ayuda a mejorar la interpretación del modelo porque los ejes se forman como una combinación lineal de sólo algunas de las variables originales.
 
-This package provides functions to perform the HJ-Biplot (Galindo, 1986) and modifications introducing Ridge, LASSO and Elastic Net penalty
+Este paquete proporciona funciones para realizar el HJ-Biplot y modificaciones que introducen la penalización Ridge, LASSO y Elastic Net.

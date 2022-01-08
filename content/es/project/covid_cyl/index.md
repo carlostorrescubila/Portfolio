@@ -40,9 +40,12 @@ url_video: ""
 slides: ""
 ---
 
-This application has been created for the [IV Open Data Contest of Castilla y León](https://datosabiertos.jcyl.es/web/es/concurso-datos-abiertos/concurso-datos-abiertos.html) with the aim of providing an easy and quick tool to help people visualize the epidemiological evolution of COVID-19 in Castilla y León. 
+Esta aplicación ha sido creada para el [IV Concurso de Datos Abiertos de Castilla y León](https://datosabiertos.jcyl.es/web/es/concurso-datos-abiertos/concurso-datos-abiertos.html) con el objetivo de brindar una herramienta fácil y rápida que ayude a las personas a visualizar la evolución epidemiológica del COVID-19 en Castilla y León. 
 
-For the development of this application, the following data sets have been obtained from the [Open Data Portal of the Junta de Castilla y León](https://datosabiertos.jcyl.es/web/es/catalogo-datos.html):
-- Situation of conronavirus patients detected in primary care by age and sex: this dataset provides information on the number of patients by province, sex and age in Castilla y León. For more information click [here](https://datosabiertos.jcyl.es/web/jcyl/set/es/salud/situacion-coronavirus-atencion-primaria/1284942898818)
-- Epidemiological situation of coronavirus in Castilla y León by hospital: this dataset provides information on the evolution of the number of hospitalized patients in ward, hospitalized patients in critical care units (ICU), discharges and deaths by hospital due to coronavirus (COVID-19) in Castilla y León. For more information click [here](https://datosabiertos.jcyl.es/web/jcyl/set/es/salud/situacion-coronavirus-hospitales/1284941728695)
-- Coronavirus epidemiological situation in Castilla y León by province: this dataset provides information on confirmed cases, new cases per day, hospital discharges and deaths due to coronavirus (COVID-19) by province in Castilla y León. For more information click [here](https://datosabiertos.jcyl.es/web/jcyl/set/es/salud/situacion-epidemiologica-coronavirus/1284940407131)
+Para la realización de esta aplicación se han obtenido del [Portal de Datos Abiertos de la Junta de Castilla y León](https://datosabiertos.jcyl.es/web/es/catalogo-datos.html) los siguientes conjuntos de datos:
+
+- Situación de enfermos por conronavirus detectados en atención primaria por tramos de edad y sexo: este conjunto de datos brinda información del número de pacientes por provincia, sexo y tramo de edad en Castilla y León. Más información sobre este conjunto de datos [aquí](https://datosabiertos.jcyl.es/web/jcyl/set/es/salud/situacion-coronavirus-atencion-primaria/1284942898818)
+
+- Situación epidemiológica del coronavirus en Castilla y León por hospitales: este conjunto de datos brinda información de la evolución del número de hospitalizados en planta, hospitalizados en unidades de críticos (UCI), altas y fallecimientos por hospital debidos al coronavirus (COVID-19) en Castilla y León. Más información sobre este conjunto de datos [aquí](https://datosabiertos.jcyl.es/web/jcyl/set/es/salud/situacion-coronavirus-hospitales/1284941728695)
+
+- Situación epidemiológica del coronavirus en Castilla y León por provincias: este conjunto de datos brinda información de los casos confirmados, nuevos casos por día, altas y fallecimientos en hospitales debidos al coronavirus (COVID-19) por provincias en Castilla y León. Más información sobre este conjunto de datos [aquí](https://datosabiertos.jcyl.es/web/jcyl/set/es/salud/situacion-epidemiologica-coronavirus/1284940407131)

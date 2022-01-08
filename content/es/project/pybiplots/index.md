@@ -1,6 +1,6 @@
 ---
 title: PyBiplots
-summary: Python package that performs the classic biplots methods.
+summary: Librería de Python que realiza los métodos biplots clásicos.
 tags:
 - Python
 - Library
@@ -22,7 +22,7 @@ links:
   url: https://anaconda.org/carlos_t22/pybiplots
 - icon: github
   icon_pack: fab
-  name: Repository
+  name: Repositorio
   url: https://github.com/carlostorrescubila/PyBiplots
 url_code: ""
 url_pdf: ""
@@ -37,4 +37,4 @@ url_video: ""
 slides: ""
 ---
 
-PyBiplots is a python package that performs the classic biplots methods. This methods are GH-Biplot, JK-Biplot and HJ-Biplot.
+PyBiplots es una librería en Python que realiza los métodos biplots clásicos. Estos métodos son GH-Biplot, JK-Biplot y HJ-Biplot.
