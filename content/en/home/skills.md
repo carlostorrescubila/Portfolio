@@ -34,12 +34,6 @@ feature:
 - icon: users
   icon_pack: fas
   name: Teamwork
-- icon: database
-  icon_pack: fas
-  name: SQL
-- icon: users
-  icon_pack: fas
-  name: Teamwork
 - icon: markdown
   icon_pack: fab
   name: Markdown
