@@ -27,8 +27,8 @@ address:
   city: Panama City, Panama
   region:
   postcode:
-  country: Panama
-  country_code: PA
+  country:
+  country_code:
 coordinates:
   latitude: '8.980971063855193'
   longitude: '-79.52416712329604'
@@ -36,10 +36,6 @@ directions:
 office_hours:
 appointment_url:
 contact_links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow me
-  url: https://twitter.com/carlos_tc22/
 
 # Site header
 
