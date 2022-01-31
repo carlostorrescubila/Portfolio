@@ -1,6 +1,6 @@
 ---
-title: Covid-19 in Castilla y León
-summary: Web app to visualize the epidemiological evolution of COVID-19 in Castilla & León, Spain.
+title: Covid-19 in Castilla & Leon
+summary: Web app to visualize the epidemiological status of COVID-19 in Castilla & León, Spain.
 tags:
 - R
 - Web App
@@ -40,9 +40,9 @@ url_video: ""
 slides: ""
 ---
 
-This application has been created for the [IV Open Data Contest of Castilla y León](https://datosabiertos.jcyl.es/web/es/concurso-datos-abiertos/concurso-datos-abiertos.html) with the aim of providing an easy and quick tool to help people visualize the epidemiological evolution of COVID-19 in Castilla y León. 
+This application has been created for the [IV Open Data Contest of Castilla & Leon](https://datosabiertos.jcyl.es/web/es/concurso-datos-abiertos/concurso-datos-abiertos.html) with the aim of providing an easy and quick tool to help people visualize the epidemiological status of COVID-19 in Castilla & Leon. 
 
-For the development of this application, the following data sets have been obtained from the [Open Data Portal of the Junta de Castilla y León](https://datosabiertos.jcyl.es/web/es/catalogo-datos.html):
-- Situation of conronavirus patients detected in primary care by age and sex: this dataset provides information on the number of patients by province, sex and age in Castilla y León. For more information click [here](https://datosabiertos.jcyl.es/web/jcyl/set/es/salud/situacion-coronavirus-atencion-primaria/1284942898818)
-- Epidemiological situation of coronavirus in Castilla y León by hospital: this dataset provides information on the evolution of the number of hospitalized patients in ward, hospitalized patients in critical care units (ICU), discharges and deaths by hospital due to coronavirus (COVID-19) in Castilla y León. For more information click [here](https://datosabiertos.jcyl.es/web/jcyl/set/es/salud/situacion-coronavirus-hospitales/1284941728695)
-- Coronavirus epidemiological situation in Castilla y León by province: this dataset provides information on confirmed cases, new cases per day, hospital discharges and deaths due to coronavirus (COVID-19) by province in Castilla y León. For more information click [here](https://datosabiertos.jcyl.es/web/jcyl/set/es/salud/situacion-epidemiologica-coronavirus/1284940407131)
+For the development of this application, the following data sets have been obtained from the [Open Data Portal of the Junta de Castilla & Leon](https://datosabiertos.jcyl.es/web/es/catalogo-datos.html):
+- Situation of conronavirus patients detected in primary care by age and sex: this dataset provides information on the number of patients by province, sex and age in Castilla & Leon. For more information click [here](https://datosabiertos.jcyl.es/web/jcyl/set/es/salud/situacion-coronavirus-atencion-primaria/1284942898818)
+- Epidemiological situation of coronavirus in Castilla & Leon by hospital: this dataset provides information on the evolution of the number of hospitalized patients in ward, hospitalized patients in critical care units (ICU), discharges and deaths by hospital due to coronavirus (COVID-19) in Castilla & Leon. For more information click [here](https://datosabiertos.jcyl.es/web/jcyl/set/es/salud/situacion-coronavirus-hospitales/1284941728695)
+- Coronavirus epidemiological situation in Castilla & Leon by province: this dataset provides information on confirmed cases, new cases per day, hospital discharges and deaths due to coronavirus (COVID-19) by province in Castilla & Leon. For more information click [here](https://datosabiertos.jcyl.es/web/jcyl/set/es/salud/situacion-epidemiologica-coronavirus/1284940407131)

@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         
         * Working holistically with data engineers and other data scientists
-        * Perform ETL processes
+        * Performing ETL processes
         * Producing and developing Machine Learning models with Python
         * Visualizing and presenting results of financial analysis
         
@@ -61,7 +61,7 @@ experience:
     description: |2-
         Responsibilities included:
         
-        *  Helped to educate students from different fields to use statistics in their work
+        * Instructed students from various fields on how to use statistics in their work
         * Assisted teaching and observed best practice
 
 design:

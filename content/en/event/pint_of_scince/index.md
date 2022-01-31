@@ -12,8 +12,8 @@ address:
   postcode: 
   country: Spain
 
-summary: Talk about the project that won us the first place in HackForGood Salamanca 2019.
-abstract: Talk where the MEDICAL DATALAB team explains the development of the project that obtained the first place in the HackForGood Salamanca 2019.
+summary: Talk about the project that won Medical DataLab the first place in HackForGood Salamanca 2019.
+abstract: Talk where the Medical DataLab team explains the development of the project that obtained the first place in the HackForGood Salamanca 2019.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

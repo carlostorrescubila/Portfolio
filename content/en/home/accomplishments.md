@@ -29,7 +29,7 @@ item:
   description: ""
   organization: University-Carlos-III-of-Madrid
   organization_url: https://www.uc3m.es/postgrado/escuela-formacion-continua
-  title: Expe(R)iences topics in data science with R
+  title: Expe(R)iences topics in Data Science with R
   url: "https://www.uc3m.es/ss/Satellite/Postgrado/es/TextoDosColumnas/1371264178837/Curso_Expe(R)iencias_temas_en_las_cienCIAS_de_datos_con_R:"
   
 - certificate_url: https://drive.google.com/file/d/1JQshhdGZ1yL8TMbFbmfqrGfUgWr7ogvM/view?usp=sharing
@@ -47,7 +47,7 @@ item:
   description: 
   organization: University-of-Salamanca
   organization_url: https://formacionpermanente.usal.es/
-  title: Introducción a la Inteligencia Artificial. Aprendizaje automático y redes neuronales
+  title: Introduction to Artificial Intelligence. Machine Learning and Neural Networks
   url: https://bisite.usal.es/es/formacion/cursos/int-artificial
   
 - certificate_url: https://drive.google.com/file/d/1HhXp1STOulW6wYi4guncYSyx6SsL0hT6/view?usp=sharing
@@ -56,7 +56,7 @@ item:
   description: 
   organization: University-of-Salamanca
   organization_url: https://formacionpermanente.usal.es/
-  title: Resources for searching and gathering information on the Internet
+  title: Resources for Searching and Gathering Information on the Internet
   url: https://bisite.usal.es/es/formacion/cursos/busqueda
 
 design:

@@ -12,8 +12,8 @@ address:
   postcode: 
   country: Spain
 
-summary: Worshop that would help you to use some univariate statistics test in Python.
-abstract: "Statistics is the grammar of Science (Pearson). For this reason we proposed this worshop that would help you to use some univariate statistics test in Python."
+summary: Worshop that would help you to use some univariate statistical tests in Python.
+abstract: "Statistics is the grammar of Science (Pearson). Therefore we proposed this workshop that would helps you to understand some statisctcal tests with Python."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

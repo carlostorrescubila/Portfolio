@@ -24,7 +24,7 @@ email: carlos221296@gmail.com
 phone: ''
 address:
   street:
-  city: Panama City
+  city: Panama City, Panama
   region:
   postcode:
   country: Panama
@@ -39,7 +39,7 @@ contact_links:
 - icon: twitter
   icon_pack: fab
   name: Follow me
-  url: https://github.com/RLadiesCuerna/meetup_2021_mayo
+  url: https://twitter.com/carlos_tc22/
 
 # Site header
 
