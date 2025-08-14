@@ -55,7 +55,7 @@ social:
   link: https://www.linkedin.com/in/carlos-alfredo-torres-cubilla/
 - icon: cv
   icon_pack: ai
-  link: uploads/Vitae_Carlos_En.pdf
+  link: es/uploads/Vitae_Carlos_En.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
