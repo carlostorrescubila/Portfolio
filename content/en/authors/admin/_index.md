@@ -10,8 +10,8 @@ role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Banco General
-  url: https://www.bgeneral.com/
+- name: 
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests focus on programming, statistics and data science.
@@ -64,10 +64,12 @@ email: ""
 highlight_name: true
 ---
 
-Carlos Torres is a Data Scientist at [Banco General](https://www.bgeneral.com/). His role is to create machine learning models that increase profits and sales of various products.
+Carlos Torres is a Data Scientist with a strong background in Statistics, Machine Learning, and Big Data Analytics.
 
-He obtained his Bachelor’s of Science and Master’s Degree at the [University of Salamanca](https://www.usal.es/) where he studied statistics, programming, and machine learning, and participated in extracurricular activities, volunteering and internships.
+He holds both a Bachelor’s degree in Statistics and a Master’s degree in Advanced Data Analysis and Big Data from the [University of Salamanca](https://www.usal.es/), where he developed solid skills in programming, predictive modeling, and applied research.
 
-Carlos is currently focused on expanding his knowledge in Data Science and building a career as a researcher parallel to his career as a Data Scientist.
+Carlos has experience working with cloud platforms such as AWS and Databricks, where he has trained and deployed machine learning models for real-world applications. Previously, he worked at [Banco General](https://www.bgeneral.com/), where he developed data-driven solutions to optimize loan recovery and increase the bank’s profitability. 
+
+He is currently focused on expanding his expertise in advanced analytics and data-driven decision-making to develop impactful and efficient solutions, while continuing to explore new applications of artificial intelligence and machine learning in real-world contexts.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Vitae_Carlos_En.pdf" "newtab" >}} CV {{< /staticref >}}.
