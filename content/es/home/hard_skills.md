@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Habilidades técnicas
 subtitle:
 
 # Showcase personal skills or business features.
@@ -22,18 +22,18 @@ feature:
 - icon: r-project
   icon_pack: fab
   name: R
-- icon: git
-  icon_pack: fab
-  name: Git
 - icon: aws
   icon_pack: fab
   name: AWS
+- icon: databricks
+  icon_pack: custom
+  name: Databricks
+- icon: git
+  icon_pack: fab
+  name: Git
 - icon: database
   icon_pack: fas
   name: SQL
-- icon: users
-  icon_pack: fas
-  name: Trabajo en Equipo
 - icon: markdown
   icon_pack: fab
   name: Markdown
