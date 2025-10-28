@@ -64,6 +64,8 @@ email: ""
 highlight_name: true
 ---
 
+<div style="text-align: justify;">
+
 Carlos Torres es un científico de datos con una sólida formación en Estadística, Aprendizaje Automático y Análisis de Big Data.
 
 Cuenta con una Licenciatura en Estadística y un Máster en Análisis Avanzado de Datos y Big Data por la [Universidad de Salamanca](https://www.usal.es/), donde desarrolló sólidas habilidades en programación, modelado predictivo e investigación aplicada.
@@ -71,5 +73,7 @@ Cuenta con una Licenciatura en Estadística y un Máster en Análisis Avanzado d
 Carlos tiene experiencia trabajando con plataformas en la nube como AWS y Databricks, donde ha entrenado e implementado modelos de aprendizaje automático para aplicaciones reales. Anteriormente trabajó en el [Banco General](https://www.bgeneral.com/), donde desarrolló soluciones basadas en datos para optimizar el cobro de préstamos y aumentar la rentabilidad del banco.
 
 Actualmente, se centra en ampliar su experiencia en analítica avanzada y toma de decisiones basada en datos, desarrollando soluciones eficientes y de alto impacto, mientras continúa explorando nuevas aplicaciones de la inteligencia artificial y el aprendizaje automático en contextos reales.
+
+</div>
 
 {{< icon name="download" pack="fas" >}} Descarga mi {{< staticref "uploads/Vitae_Carlos_Es.pdf" "newtab" >}} Curriculum {{< /staticref >}}.
