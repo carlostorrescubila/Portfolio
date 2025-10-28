@@ -25,11 +25,15 @@ feature:
 - icon: aws
   icon_pack: fab
   name: AWS
+- icon: "databricks"
+  icon_pack: "custom"
+  name: "Databricks"
 - icon: git
   icon_pack: fab
   name: Git
 - icon: database
   icon_pack: fas
+  name: SQL
 - icon: markdown
   icon_pack: fab
   name: Markdown

@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 31
 
 title: Power skills
 subtitle:
@@ -19,6 +19,12 @@ feature:
 - icon: users
   icon_pack: fas
   name: Teamwork
+- icon: person-chalkboard
+  icon_pack: fas
+  name: Effective Communication
+- icon: lightbulb
+  icon_pack: fas
+  name: Problem Solving
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
