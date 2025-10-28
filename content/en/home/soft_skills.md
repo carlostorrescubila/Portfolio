@@ -9,37 +9,16 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Power skills
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: python
-  icon_pack: fab
-  name: Python
-- icon: r-project
-  icon_pack: fab
-  name: R
-- icon: git
-  icon_pack: fab
-  name: Git
-- icon: aws
-  icon_pack: fab
-  name: AWS
-- icon: database
-  icon_pack: fas
-  name: SQL
 - icon: users
   icon_pack: fas
   name: Teamwork
-- icon: markdown
-  icon_pack: fab
-  name: Markdown
-- icon: html5
-  icon_pack: fab
-  name: HTML
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
