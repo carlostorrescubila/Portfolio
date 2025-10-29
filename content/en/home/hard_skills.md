@@ -29,7 +29,7 @@ feature:
   name: AWS
   description: Experience with S3, EC2, and QuickSight for cloud-based analytics
 - icon: databricks
-  icon_pack: fab
+  icon_pack: custom
   name: Databricks
   description: Building and deploying data and machine learning pipelines in collaborative environments
 - icon: git
