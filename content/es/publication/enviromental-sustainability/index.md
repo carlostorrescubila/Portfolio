@@ -35,9 +35,9 @@ publication_short: ""
 abstract: El deseo de las universidades de promover la sostenibilidad ambiental se refleja en iniciativas que buscan implementar políticas para fomentar campus verdes y sostenibles, no solo en cuestiones ambientales, sino también en aspectos sociales y económicos, abarcando así las tres dimensiones de la sostenibilidad. En este sentido, se han desarrollado varios enfoques; entre ellos, podemos mencionar el UI GreenMetric University Ranking, un referente internacional desarrollado en 2010 por la Universidad de Indonesia. Considerando los resultados de dicho ranking, se ha observado un aumento en el número de universidades participantes. Por lo tanto, este artículo tiene dos objetivos: por un lado, analizar si, durante los últimos siete años (2015-2021), ha habido variaciones significativas entre las categorías que componen el ranking mundial de sostenibilidad UI GreenMetric; por otro lado, establecer posibles relaciones entre estas categorías. Para ello, se ha utilizado un método estadístico multivariante; en este caso, STATIS Dual permite analizar simultáneamente a las universidades en el período establecido en las diferentes categorías del ranking mundial. Los resultados muestran cambios favorables a lo largo del período de estudio, en cinco de las seis categorías del ranking. Además, el estudio demuestra que las categorías Educación, Transporte, Agua, Residuos y Energía, y Cambio Climático están correlacionadas. Las categorías de Agua y Residuos son las que proporcionan mayor información en la búsqueda de la sostenibilidad. Esperamos que nuestros resultados sean útiles para los tomadores de decisiones en las universidades.
 
 # Summary. An optional shortened abstract.
-summary: New proposal for obtaining the HJ biplot by applying the elastic net penalty to improve the interpretation of the results.
+summary: ""
 
-tags: ["sustainable development", "environment", "university",  "green campuses",  "GreenMetric",  "Multivariate Analysis",  "Statis Dual"
+tags: ["sustainable development", "environment", "university",  "green campuses",  "GreenMetric",  "Multivariate Analysis",  "Statis Dual"]
 
 # Display this page in the Featured widget?
 featured: false
