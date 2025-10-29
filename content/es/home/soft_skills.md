@@ -18,7 +18,7 @@ feature:
   icon_pack: fas
   name: Adaptabilidad
   description: Flexibilidad ante entornos cambiantes y nuevas tecnologías
--icon: graduation-cap
+- icon: graduation-cap
   icon_pack: fas
   name: Aprendizaje continuo
   description: Compromiso con el aprendizaje constante y la mejora profesional

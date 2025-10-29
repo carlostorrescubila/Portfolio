@@ -17,7 +17,7 @@ feature:
 - icon: aws
   icon_pack: fab
   name: AWS
-  description: S3, EC2, QuickSight
+  description: Experiencia con S3, EC2, QuickSight para análisis basados en la nube
 - icon: databricks
   icon_pack: custom
   name: Databricks
