@@ -47,9 +47,9 @@ experience:
     description: |2-
         Responsibilities included:
         
-        * Structured data in R with the Tidyverse environment
-        * Analyzed and prepared data from various sources e.g. politics, financial, personal data
-        * Created interactive HTML reports with R for reporting statistical analysis
+        * Implemented ETL processes in R (Tidyverse) to consolidate and clean data from various sources.
+        * Developed and deployed an interactive application in Shiny for multivariate statistical analysis, improving data exploration and visualization.
+        * Created interactive HTML reports with dynamic visualizations, optimizing the communication of results to international clients.
     
   - title: Statistic intern
     company: Department of Statistics of the University of Salamanca
@@ -61,8 +61,8 @@ experience:
     description: |2-
         Responsibilities included:
         
-        * Instructed students from various fields on how to use statistics in their work
-        * Assisted teaching and observed best practice
+        * Advised students on the application of advanced statistical techniques to academic projects.
+        * I supported teaching in applied statistics courses, promoting the use of analytical tools and statistical software.
 
 design:
   columns: '2'

@@ -47,9 +47,9 @@ experience:
     description: |2-
         Las responsabilidades incluyeron:
         
-        *  Estructurar datos en R con el entorno Tidyverse
-        * Analizar y preparar datos de diversas fuentes, p. Ej. Política, Financiera, Datos personales
-        * Crear informes HTML interactivos con R para informes de análisis estadístico
+        * Implementé procesos ETL en R (Tidyverse) para consolidar y limpiar datos de diversas fuentes.
+        * Desarrollé y desplegué una aplicación interactiva en Shiny para análisis estadístico multivariado, mejorando la exploración y visualización de datos.
+        * Creé informes interactivos en HTML con visualizaciones dinámicas, optimizando la comunicación de resultados a clientes internacionales.
 
   - title: Estadístico en prácticas
     company: Departamento de Estadística de la Universidad de Salamanca
@@ -61,8 +61,8 @@ experience:
     description: |2-
         Las responsabilidades incluyeron:
         
-        *  Educar estudiantes de diferentes campos para que utilicen estadística en su trabajo
-        * Asistir a un tutor en la enseñanza y observar sus buenas prácticas
+        * Asesoré a estudiantes en la aplicación de técnicas estadísticas avanzadas a proyectos académicos.
+        * Apoyé la docencia en cursos de estadística aplicada,fomentando el uso de herramientas analíticas y software estadístico.
 
 design:
   columns: '2'
