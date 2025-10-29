@@ -19,9 +19,10 @@ feature:
 - icon: users
   icon_pack: fas
   name: Teamwork
-- icon: person-chalkboard
+- icon: chalkboard-teacher
   icon_pack: fas
   name: Effective Communication
+  description: Explicación clara de conceptos técnicos y resultados.
 - icon: lightbulb
   icon_pack: fas
   name: Problem Solving
