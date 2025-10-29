@@ -22,7 +22,7 @@ feature:
   icon_pack: fas
   name: Aprendizaje continuo
   description: Compromiso con el aprendizaje constante y la mejora profesional
-- icon: person-chalkboard
+- icon: chalkboard-teacher
   icon_pack: fas
   name: Comunicación efectiva
   description: Claridad y empatía al transmitir ideas técnicas y estratégicas
