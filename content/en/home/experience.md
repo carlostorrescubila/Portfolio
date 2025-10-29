@@ -28,7 +28,7 @@ experience:
     company_logo: banco-general
     location: Panama City, Panama
     date_start: '2021-01-04'
-    date_end: ''
+    date_end: '2025-02-28'
     description: |2-
         Responsibilities include:
         

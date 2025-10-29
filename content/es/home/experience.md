@@ -28,7 +28,7 @@ experience:
     company_logo: banco-general
     location: Ciudad de Panamá, Panamá
     date_start: '2021-01-04'
-    date_end: ''
+    date_end: '2025-02-28'
     description: |2-
         Las responsabilidades incluyen:
         
