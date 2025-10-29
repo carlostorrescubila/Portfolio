@@ -1,43 +1,33 @@
 ---
-# An instance of the Featurette widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
-
-# This file represents a page section.
 headless: true
-
-# Order that this section appears on the page.
 weight: 31
-
 title: Habilidades interpersonales
 subtitle:
 
-# Showcase personal skills or business features.
-# - Add/remove as many `feature` blocks below as you like.
-# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: users
+- icon: chart-line
   icon_pack: fas
-  name: Trabajo en equipo
-- icon: person-chalkboard
-  icon_pack: fas
-  name: Comunicación efectiva
+  name: Pensamiento analítico
+  description: Capacidad para analizar información y tomar decisiones basadas en datos
 - icon: lightbulb
   icon_pack: fas
   name: Resolución de problemas
-
-# Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"  
-
-# Uncomment to use custom SVG icons.
-# Place your custom SVG icon in `assets/media/icons/`.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+  description: Enfoque crítico y creativo para resolver desafíos complejos
+- icon: sync-alt
+  icon_pack: fas
+  name: Adaptabilidad
+  description: Flexibilidad ante entornos cambiantes y nuevas tecnologías
+-icon: graduation-cap
+  icon_pack: fas
+  name: Aprendizaje continuo
+  description: Compromiso con el aprendizaje constante y la mejora profesional
+- icon: person-chalkboard
+  icon_pack: fas
+  name: Comunicación efectiva
+  description: Claridad y empatía al transmitir ideas técnicas y estratégicas
+- icon: user-tie
+  icon_pack: fas
+  name: Leadership Potential
+  description: Capacidad para motivar, guiar y coordinar equipos hacia objetivos comunes
 ---
