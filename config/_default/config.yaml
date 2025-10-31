@@ -66,3 +66,33 @@ related:
       weight: 100
     - name: categories
       weight: 70
+
+############################
+## SECURITY (para Netlify)
+############################
+
+security:
+  enableInlineShortcodes: false
+
+  exec:
+    allow:
+      - '^(dart-)?sass(-embedded)?$'
+      - '^go$'
+      - '^git$'
+      - '^npx$'
+      - '^postcss$'
+      - '^tailwindcss$'
+    osEnv:
+      - '(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM|GO\\w+|(XDG_CONFIG_)?HOME|USERPROFILE|SSH_AUTH_SOCK|DISPLAY|LANG|SYSTEMDRIVE)$'
+
+  funcs:
+    getenv:
+      - '^HUGO_'
+      - '^WC_'
+      - '^CI$'
+
+  http:
+    methods:
+      - '(?i)GET|POST'
+    urls:
+      - '.*'
