@@ -54,7 +54,7 @@ experience:
   - title: Statistic intern
     company: Department of Statistics of the University of Salamanca
     company_url: 'http://biplot.dep.usal.es/'
-    company_logo: usal
+    company_logo: universidad-de-salamanca
     location: Salamanca, Spain
     date_start: '2018-09-01'
     date_end: '2019-01-31'
