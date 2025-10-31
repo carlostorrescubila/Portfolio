@@ -14,7 +14,6 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
-- "Equal contribution"
 
 date: "2022-10-19"
 doi: ""

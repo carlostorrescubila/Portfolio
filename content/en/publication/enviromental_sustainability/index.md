@@ -14,7 +14,6 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
-- "Equal contribution"
 
 date: "2022-10-19"
 doi: ""
@@ -32,7 +31,7 @@ publication_types: ["2"]
 publication: "2022 8th International Engineering, Sciences and Technology Conference (IESTEC)"
 publication_short: ""
 
-abstract: The desire of universities to promote environmental sustainability is reflected in initiatives that seek to implement policies to promote green and sustainable campuses, not only in environmental issues but also in social and economic aspects, thus covering the three dimensions of sustainability. In this sense, several approaches have been developed; among these, we can mention the UI GreenMetric University Ranking, an international reference, developed in 2010, by the University of Indonesia. Considering the results of said ranking, there has been an increase in the number of participating universities. Therefore, this article has two purposes; on the one hand, to analyze whether, over the last seven years (2015-2021) there have been significant variations between the categories that make up the UI GreenMetric world sustainability ranking; on the other hand, to establish possible relationships between these categories. For this, a multivariate statistical method has been used; in this case, STATIS Dual allows universities to be analyzed simultaneously in the established period in the different world ranking categories. The results show favorable changes throughout the study period, in five of the six ranking categories. Furthermore, the study shows that the categories Education, Transport, Water, Waste and Energy, and Climate Change correlate. The Water and Waste categories are the ones that provide the most information, in the search for sustainability. We hope that our results are useful for decision-makers in universities.
+abstract: El deseo de las universidades de promover la sostenibilidad ambiental se refleja en iniciativas que buscan implementar políticas para fomentar campus verdes y sostenibles, no solo en cuestiones ambientales, sino también en aspectos sociales y económicos, abarcando así las tres dimensiones de la sostenibilidad. En este sentido, se han desarrollado varios enfoques; entre ellos, podemos mencionar el UI GreenMetric University Ranking, un referente internacional desarrollado en 2010 por la Universidad de Indonesia. 
 
 # Summary. An optional shortened abstract.
 summary: ""
