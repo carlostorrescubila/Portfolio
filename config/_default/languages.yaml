@@ -27,7 +27,7 @@ es:
         url: '#projects'
         weight: 30
       - name: Certificaciones
-        url: '#certifications'
+        url: '#accomplishments'
         weight: 40
       - name: Charlas
         url: '#talks'
