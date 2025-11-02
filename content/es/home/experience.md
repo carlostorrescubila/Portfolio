@@ -54,7 +54,7 @@ experience:
   - title: Estadístico en prácticas
     company: Departamento de Estadística de la Universidad de Salamanca
     company_url: 'http://biplot.dep.usal.es/'
-    company_logo: universidad-of-salamanca
+    company_logo: universidad-de-salamanca
     location: Salamanca, España
     date_start: '2018-09-01'
     date_end: '2019-01-31'
