@@ -1,0 +1,49 @@
+{{/* Custom Experience Widget - supports multiple roles per company */}}
+
+{{ $page := . }}
+<div class="row">
+  {{ with .Params.experience }}
+    {{ range . }}
+      <div class="col-12 col-lg-6">
+        <div class="card experience-card mb-4">
+          <div class="card-body">
+            {{ if .company_logo }}
+              {{ $logo := resources.Get (printf "media/icons/brands/%s.svg" .company_logo) }}
+              {{ if $logo }}
+                <img src="{{ $logo.RelPermalink }}" alt="{{ .company }}" class="company-logo mb-2" style="max-height:40px;">
+              {{ end }}
+            {{ end }}
+
+            <h4 class="company-name mb-2">
+              {{ if .company_url }}
+                <a href="{{ .company_url }}" target="_blank" rel="noopener">{{ .company }}</a>
+              {{ else }}
+                {{ .company }}
+              {{ end }}
+            </h4>
+
+            {{ if .location }}
+              <p class="text-muted mb-2">{{ .location }}</p>
+            {{ end }}
+
+            {{ if .roles }}
+              {{ range .roles }}
+                <div class="role mb-3">
+                  <h5 class="role-title mb-1">{{ .title }}</h5>
+                  <p class="text-muted mb-1">{{ .date_start }} - {{ .date_end | default "Present" }}</p>
+                  {{ if .description }}
+                    <div class="role-description">{{ .description | markdownify }}</div>
+                  {{ end }}
+                </div>
+              {{ end }}
+            {{ else }}
+              <h5 class="role-title mb-1">{{ .title }}</h5>
+              <p class="text-muted mb-1">{{ .date_start }} - {{ .date_end | default "Present" }}</p>
+              <div class="role-description">{{ .description | markdownify }}</div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    {{ end }}
+  {{ end }}
+</div>
