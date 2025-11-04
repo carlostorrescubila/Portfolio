@@ -21,23 +21,24 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-- company: Banco General
-  company_url: 'https://www.bgeneral.com/'
-  company_logo: banco-general
-  location: Panama City, Panama
-  roles:
-    - title: Data Scientist
-      date_start: '2023-03-01'
-      date_end: '2025-02-28'
-      description: |2-
-        * Developed ML models in Python
-        * Built financial forecasting tools
-    - title: Data Analyst
-      date_start: '2021-01-04'
-      date_end: '2023-02-28'
-      description: |2-
-        * Built dashboards for risk management
-        * Assisted in data pipeline automation
+experience:
+  - company: Banco General
+    company_url: 'https://www.bgeneral.com/'
+    company_logo: banco-general
+    location: Panama City, Panama
+    roles:
+      - title: Data Scientist
+        date_start: '2023-03-01'
+        date_end: '2025-02-28'
+        description: |2-
+          * Developed ML models in Python
+          * Built financial forecasting tools
+      - title: Data Analyst
+        date_start: '2021-01-04'
+        date_end: '2023-02-28'
+        description: |2-
+          * Built dashboards for risk management
+          * Assisted in data pipeline automation
         
   - title: Data Science intern
     company: STAT-UP
