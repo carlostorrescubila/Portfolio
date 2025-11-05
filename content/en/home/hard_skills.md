@@ -24,14 +24,18 @@ feature:
   icon_pack: fab
   name: R
   description: Advanced statistical analysis, visualization, and predictive modeling
-- icon: aws
-  icon_pack: fab
-  name: AWS
-  description: Experience with S3, EC2, and QuickSight for cloud-based analytics
 - icon: databricks
   icon_pack: custom
   name: Databricks
   description: Building and deploying data and machine learning pipelines in collaborative environments
+- icon: mlflow
+  icon_pack: custom
+  name: MLflow
+  description: Experiment management and production deployment of machine learning models
+- icon: aws
+  icon_pack: fab
+  name: AWS
+  description: Experience with S3, EC2, and QuickSight for cloud-based analytics
 - icon: git
   icon_pack: fab
   name: Git
