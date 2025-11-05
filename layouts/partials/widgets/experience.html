@@ -1,49 +1,108 @@
-{{/* Custom Experience Widget - supports multiple roles per company */}}
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $columns := $page.Params.design.columns | default "2" }}
 
-{{ $page := . }}
-<div class="row">
-  {{ with .Params.experience }}
-    {{ range . }}
-      <div class="col-12 col-lg-6">
-        <div class="card experience-card mb-4">
-          <div class="card-body">
-            {{ if .company_logo }}
-              {{ $logo := resources.Get (printf "media/icons/brands/%s.svg" .company_logo) }}
-              {{ if $logo }}
-                <img src="{{ $logo.RelPermalink }}" alt="{{ .company }}" class="company-logo mb-2" style="max-height:40px;">
+<!-- Experience widget -->
+<div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
+  {{ with $page.Content }}{{ . }}{{ end }}
+
+  {{ if $page.Params.experience }}
+    {{ $exp_len := len $page.Params.experience }}
+    {{ range $idx, $key := sort $page.Params.experience ".date_start" "desc" }}
+    <div class="row experience">
+      <!-- Timeline -->
+      <div class="col-auto text-center flex-column d-none d-sm-flex">
+        <div class="row h-50">
+          <div class="col {{if gt $idx 0}}border-right{{end}}">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+        <div class="m-2">
+          <span class="badge badge-pill border {{if not .date_end}}exp-fill{{end}}">&nbsp;</span>
+        </div>
+        <div class="row h-50">
+          <div class="col {{if lt $idx (sub $exp_len 1)}}border-right{{end}}">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+      </div>
+
+      <!-- Content -->
+      <div class="col py-1">
+        <div class="card mb-2">
+          <div class="card-body" style="padding: 1.3rem 1.3rem 1.3rem 1.3rem;">
+
+            <!-- Encabezado con logo, empresa y ciudad alineados -->
+            <div class="d-flex mb-1" style="gap:0.6rem;">
+              {{ if .company_logo }}
+                {{ $logo := resources.Get (printf "media/icons/brands/%s.svg" .company_logo) }}
+                {{ if $logo }}
+                  <div class="d-flex align-items-center">
+                    <img src="{{ $logo.RelPermalink }}" alt="{{ .company }}" style="max-height:42px;">
+                  </div>
+                {{ end }}
               {{ end }}
+
+              <div class="d-flex flex-column justify-content-center">
+                <div class="section-subheading card-title exp-company text-muted" style="margin:0;">
+                  {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.company | markdownify | emojify}}{{with .company_url}}</a>{{end -}}
+                </div>
+                {{ with .location }}
+                  <div class="text-muted" style="font-size:0.85rem;">{{ . }}</div>
+                {{ end }}
+              </div>
+            </div>
+
+            <!-- Título del puesto principal -->
+            <div class="section-subheading exp-title text-muted mb-0" style="margin-top:0.25rem;">{{.title | markdownify | emojify}}</div>
+
+            <!-- Fechas del item principal -->
+            <div class="text-muted exp-meta mb-0" style="font-size:0.8rem; margin-bottom:0.25rem;">
+              {{ with .date_start }}
+                {{ (time .).Format ($page.Params.date_format | default "January 2006") }}
+              {{ end }}
+              {{ if .date_end }}
+                – {{ (time .date_end).Format ($page.Params.date_format | default "January 2006") }}
+              {{ else if .date_start }}
+                – {{ i18n "present" | default "Present" }}
+              {{ end }}
+            </div>
+
+
+            <!-- Descripción general -->
+            {{ with .description }}
+              <div style="font-size:15px; margin:0; padding:0; line-height:1.3; text-align:justify;">{{ . | markdownify | emojify }}</div>
             {{ end }}
 
-            <h4 class="company-name mb-2">
-              {{ if .company_url }}
-                <a href="{{ .company_url }}" target="_blank" rel="noopener">{{ .company }}</a>
-              {{ else }}
-                {{ .company }}
-              {{ end }}
-            </h4>
-
-            {{ if .location }}
-              <p class="text-muted mb-2">{{ .location }}</p>
-            {{ end }}
-
-            {{ if .roles }}
-              {{ range .roles }}
-                <div class="role mb-3">
-                  <h5 class="role-title mb-1">{{ .title }}</h5>
-                  <p class="text-muted mb-1">{{ .date_start }} - {{ .date_end | default "Present" }}</p>
-                  {{ if .description }}
-                    <div class="role-description">{{ .description | markdownify }}</div>
+            <!-- Roles internos -->
+            {{ with .roles }}
+              {{ range . }}
+                <div style="margin-top:0.25rem; margin-bottom:0;">
+                  <div class="section-subheading exp-title text-muted mb-0" style="padding-top:0; margin-top:0;">{{ .title }}</div>
+                  {{ if or .date_start .date_end }}
+                    <p class="text-muted mb-1" style="font-size:0.8rem;">
+                      {{ with .date_start }}
+                        {{ (time .).Format ($page.Params.date_format | default "January 2006") }}
+                      {{ end }}
+                      {{ if .date_end }}
+                        – {{ (time .date_end).Format ($page.Params.date_format | default "January 2006") }}
+                      {{ else if .date_start }}
+                        – {{ i18n "present" | default "Present" }}
+                      {{ end }}
+                    </p>
+                  {{ end }}
+                  {{ with .description }}
+                    <div style="font-size:15px; margin:0; padding:0; line-height:1.3; text-align:justify;">{{ . | markdownify | emojify }}</div>
                   {{ end }}
                 </div>
               {{ end }}
-            {{ else }}
-              <h5 class="role-title mb-1">{{ .title }}</h5>
-              <p class="text-muted mb-1">{{ .date_start }} - {{ .date_end | default "Present" }}</p>
-              <div class="role-description">{{ .description | markdownify }}</div>
             {{ end }}
+
+
+
+
           </div>
         </div>
       </div>
+    </div>
     {{ end }}
   {{ end }}
 </div>

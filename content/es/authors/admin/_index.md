@@ -55,7 +55,7 @@ social:
   link: https://www.linkedin.com/in/carlos-alfredo-torres-cubilla/
 - icon: cv
   icon_pack: ai
-  link: es/uploads/Vitae_Carlos_Es.pdf
+  link: es/uploads/Curriculum_Torres.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -76,4 +76,4 @@ Actualmente, se centra en ampliar su experiencia en analítica avanzada y toma d
 
 </div>
 
-{{< icon name="download" pack="fas" >}} Descarga mi {{< staticref "uploads/Vitae_Carlos_Es.pdf" "newtab" >}} Curriculum {{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Descarga mi {{< staticref "es/uploads/Curriculum_Torres.pdf" "newtab" >}} Curriculum {{< /staticref >}}.
