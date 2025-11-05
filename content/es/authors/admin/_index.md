@@ -41,21 +41,25 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/carlos_tc22
+  link: https://www.linkedin.com/in/carlos-alfredo-torres-cubilla/
 - icon: github
   icon_pack: fab
   link: https://github.com/carlostorrescubila
 - icon: google-scholar  
   icon_pack: ai
   link: https://scholar.google.com/citations?user=LpyKanAAAAAJ&hl=es&oi=sra
-- icon: linkedin
+- icon: xing
   icon_pack: fab
-  link: https://www.linkedin.com/in/carlos-alfredo-torres-cubilla/
+  link: https://www.xing.com/profile/Carlos_Torres76
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/carlos_tc22
 - icon: cv
   icon_pack: ai
   link: es/uploads/Curriculum_Torres.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
