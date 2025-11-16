@@ -20,10 +20,6 @@ links:
   icon_pack: fas
   name: Event
   url: https://hackforgood.net/
-- icon: file
-  icon_pack: far
-  name: Slides
-  url: 
 - icon: github
   icon_pack: fab
   name: Repository
