@@ -1,7 +1,7 @@
 ---
 widget: featurette
 headless: true
-weight: 30
+weight: 20
 title: Habilidades técnicas
 subtitle:
 

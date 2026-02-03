@@ -1,7 +1,7 @@
 ---
 widget: featurette
 headless: true
-weight: 31
+weight: 30
 title: Habilidades interpersonales
 subtitle:
 

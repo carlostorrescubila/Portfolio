@@ -26,14 +26,14 @@ es:
       - name: Proyectos
         url: '#projects'
         weight: 30
-      - name: Certificaciones
-        url: '#accomplishments'
-        weight: 40
-      - name: Charlas
-        url: '#talks'
-        weight: 50
       - name: Publicaciones
         url: '#publications'
+        weight: 40
+      - name: Certificaciones
+        url: '#accomplishments'
+        weight: 50
+      - name: Charlas
+        url: '#talks'
         weight: 60
       - name: Contacto
         url: '#contact'
