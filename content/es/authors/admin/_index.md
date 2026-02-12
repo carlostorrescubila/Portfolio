@@ -38,28 +38,27 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/carlos-alfredo-torres-cubilla/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/carlostorrescubila
-- icon: google-scholar  
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=LpyKanAAAAAJ&hl=es&oi=sra
 - icon: xing
   icon_pack: fab
   link: https://www.xing.com/profile/Carlos_Torres76
-- icon: twitter
+- icon: github
   icon_pack: fab
-  link: https://twitter.com/carlos_tc22
+  link: https://github.com/carlostorrescubila
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0001-9898-0649
+- icon: google-scholar  
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=LpyKanAAAAAJ&hl=es&oi=sra
+- icon: envelope
+  icon_pack: fas
+  link: '/#contact'
 - icon: cv
   icon_pack: ai
   link: es/uploads/Curriculum_Torres.pdf
-
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

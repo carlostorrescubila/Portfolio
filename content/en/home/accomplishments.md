@@ -27,7 +27,7 @@ item:
   date_end: ""
   date_start: "2019-04-01"
   description: ""
-  organization: University-Carlos-III-of-Madrid
+  organization: University Carlos III of Madrid
   organization_url: https://www.uc3m.es/postgrado/escuela-formacion-continua
   title: Expe(R)iences topics in Data Science with R
   url: "https://www.uc3m.es/ss/Satellite/Postgrado/es/TextoDosColumnas/1371264178837/Curso_Expe(R)iencias_temas_en_las_cienCIAS_de_datos_con_R:"
@@ -36,7 +36,7 @@ item:
   date_end: "2018-07-20"
   date_start: "2018-07-16"
   description: 
-  organization: University-of-Salamanca
+  organization: University of Salamanca
   organization_url: https://formacionpermanente.usal.es/
   title: "Statistics for Researchers: Practice with SPSS/R"
   url: 
@@ -45,7 +45,7 @@ item:
   date_end: "2018-04-09"
   date_start: "2018-03-05"
   description: 
-  organization: University-of-Salamanca
+  organization: University of Salamanca
   organization_url: https://formacionpermanente.usal.es/
   title: Introduction to Artificial Intelligence. Machine Learning and Neural Networks
   url: https://bisite.usal.es/es/formacion/cursos/int-artificial
@@ -54,7 +54,7 @@ item:
   date_end: "2018-03-23"
   date_start: "2018-03-05"
   description: 
-  organization: University-of-Salamanca
+  organization: University of Salamanca
   organization_url: https://formacionpermanente.usal.es/
   title: Resources for Searching and Gathering Information on the Internet
   url: https://bisite.usal.es/es/formacion/cursos/busqueda

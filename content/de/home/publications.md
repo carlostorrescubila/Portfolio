@@ -9,14 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Publicaciones Recientes 
+title: Veröffentlichungen
 subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
-  count: 5
+  count: 3
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
@@ -38,5 +38,5 @@ design:
 ---
 
 {{% callout note %}}
-Descubra rápidamente contenido relevante [filtrando publicaciones](./publication/).
+Finden Sie schnell relevante Inhalte, indem Sie [Publikationen filtern](./publication/).
 {{% /callout %}}

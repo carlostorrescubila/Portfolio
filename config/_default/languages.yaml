@@ -38,3 +38,34 @@ es:
       - name: Contacto
         url: '#contact'
         weight: 70
+
+# Second language
+de:
+  languageCode: de-de
+  contentDir: content/de
+  title: Carlos Torres, Data Scientist
+  params:
+    description:
+  menu:
+    main:
+      - name: Über mich
+        url: '#about'
+        weight: 10
+      - name: Erfahrung
+        url: '#experience'
+        weight: 20
+      - name: Projekte
+        url: '#projects'
+        weight: 30
+      - name: Veröffentlichungen
+        url: '#publications'
+        weight: 40
+      - name: Zertifizierungen
+        url: '#accomplishments'
+        weight: 50
+      - name: Vorträge
+        url: '#talks'
+        weight: 60
+      - name: Kontakt
+        url: '#contact'
+        weight: 70
