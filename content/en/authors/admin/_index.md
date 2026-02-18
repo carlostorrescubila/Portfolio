@@ -79,4 +79,4 @@ He is currently focused on expanding his expertise in advanced analytics and dat
 
 </div>
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Torres.pdf" "newtab" >}} CV {{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my <a href="https://drive.google.com/file/d/1n3PSWK5Jr5xXY-PoyzCGl2M9YkXgInoN/view?usp=sharing" target="_blank" rel="noopener"> CV </a>.

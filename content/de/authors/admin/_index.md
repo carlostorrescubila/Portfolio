@@ -71,7 +71,7 @@ highlight_name: true
 
 Carlos Torres ist ein Data Scientist mit fundierten Kenntnissen in Statistik, maschinellem Lernen und Big-Data-Analyse.
 
-Er besitzt sowohl einen Bachelor-Abschluss in Statistik als auch einen Master-Abschluss in fortgeschrittener Analyse multivariater Daten und Big Data von der [Universität Salamanca](https://www.usal.es/), where he developed solid skills in programming, predictive modeling, and applied research.
+Er besitzt sowohl einen Bachelor-Abschluss in Statistik als auch einen Master-Abschluss in fortgeschrittener Analyse multivariater Daten und Big Data von der [Universität Salamanca](https://www.usal.es/), wo er fundierte Kenntnisse in Programmierung, prädiktiver Modellierung und angewandter Forschung entwickelte.
 
 Carlos verfügt über Erfahrung mit Cloud-Plattformen wie AWS und Databricks, wo er Machine-Learning-Modelle für reale Anwendungen trainiert und implementiert hat. Zuvor war er bei der [Banco General](https://www.bgeneral.com/) tätig , wo er datenbasierte Lösungen zur Optimierung des Krediteinzugs und zur Steigerung der Rentabilität der Bank entwickelte.
 
@@ -79,4 +79,4 @@ Derzeit konzentriert er sich darauf, seine Expertise in fortgeschrittener Analyt
 
 </div>
 
-{{< icon name="download" pack="fas" >}} Laden Sie meinen {{< staticref "uploads/CV_Torres.pdf" "newtab" >}} Lebenslauf {{< /staticref >}} herunter.
+{{< icon name="download" pack="fas" >}} Laden Sie meinen <a href="https://drive.google.com/file/d/1M2E6pGsRhX9al2Gp8eR2KNF2w3Lj71PG/view?usp=sharing" target="_blank" rel="noopener"> Lebenslauf </a> herunter.
