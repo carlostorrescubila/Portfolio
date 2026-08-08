@@ -35,7 +35,7 @@ item:
 - certificate_url: "https://learn.microsoft.com/en-us/users/carlosatc/credentials/ae2083645dc7245c"
   date_end: ""
   date_start: "2026-08-01"
-  description: "Conocimientos básicos de conceptos fundamentales de datos y de los servicios de datos relacionados de Microsoft Azure.
+  description: "Conocimientos básicos de conceptos fundamentales de datos y de los servicios de datos relacionados de Microsoft Azure."
   organization: "Microsoft"
   organization_url: "https://www.microsoft.com/"
   title: "Microsoft Certified: Azure Fundamentals"
