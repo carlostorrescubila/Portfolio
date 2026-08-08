@@ -23,7 +23,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-item:
+- certificate_url: "https://learn.microsoft.com/en-us/users/carlosatc/credentials/b76f61fb4baa2e62"
+  date_end: ""
+  date_start: "2026-08-08"
+  description: "Bescheinigt grundlegende Kenntnisse über zentrale Datenkonzepte und zugehörige Microsoft Azure-Datendienste."  
+  organization: "Microsoft"
+  organization_url: "https://www.microsoft.com/"
+  title: "Microsoft Certified: Azure Data Fundamentals"
+  url: "https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/"
+  
 - certificate_url: "https://learn.microsoft.com/en-us/users/carlosatc/credentials/ae2083645dc7245c"
   date_end: ""
   date_start: "2026-08-01"
