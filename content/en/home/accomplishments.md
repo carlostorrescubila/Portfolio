@@ -26,7 +26,7 @@ item:
 - certificate_url: "https://learn.microsoft.com/en-us/users/carlosatc/credentials/b76f61fb4baa2e62"
   date_end: ""
   date_start: "2026-08-08"
-  description: "Foundational knowledge of core data concepts and related Microsoft Azure data services.""
+  description: "Foundational knowledge of core data concepts and related Microsoft Azure data services."
   organization: "Microsoft"
   organization_url: "https://www.microsoft.com/"
   title: "Microsoft Certified: Azure Data Fundamentals"
