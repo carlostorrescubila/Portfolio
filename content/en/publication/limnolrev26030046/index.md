@@ -29,7 +29,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Limnological Review* 2026, 26(3), 46"
+publication: "*Limnological Review*, 26(3), 46"
 publication_short: ""
 
 abstract: |
