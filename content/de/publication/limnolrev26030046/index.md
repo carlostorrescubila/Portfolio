@@ -1,5 +1,5 @@
 ---
-title: "Air Quality Profiles in Latin America and the Caribbean: A Multivariate Characterization Using HJ-Biplot (2024)"
+title: "Key Physicochemical and Biological Factors Associated with Chlorophyll-a Concentrations: A Machine Learning Approach"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
