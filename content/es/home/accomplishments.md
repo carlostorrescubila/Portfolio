@@ -23,6 +23,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: "https://learn.microsoft.com/en-us/users/carlosatc/credentials/a14ab525abffc2f7"
+  date_end: ""
+  date_start: "2026-08-27"
+  description: "Métodos y buenas prácticas para modelar, visualizar y analizar datos con Microsoft Power BI para cumplir con los requisitos empresariales y técnicos."
+  organization: "Microsoft"
+  organization_url: "https://www.microsoft.com/"
+  title: "Microsoft Certified: Power BI Data Analyst Associate"
+  url: "https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/"
+  
 - certificate_url: "https://learn.microsoft.com/en-us/users/carlosatc/credentials/b76f61fb4baa2e62"
   date_end: ""
   date_start: "2026-08-08"
