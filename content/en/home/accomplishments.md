@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item:item:
+item:
 - certificate_url: "https://learn.microsoft.com/en-us/users/carlosatc/credentials/f9dc65b231ff0fcf"
   date_end: ""
   date_start: "2026-09-04"
