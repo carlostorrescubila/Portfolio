@@ -23,8 +23,17 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: "https://learn.microsoft.com/en-us/users/carlosatc/credentials/a14ab525abffc2f7"
+- certificate_url: "https://learn.microsoft.com/en-us/users/carlosatc/credentials/f9dc65b231ff0fcf"
   date_end: ""
+  date_start: "2026-09-04"
+  description: "Conocimientos básicos sobre las capacidades de Microsoft Power Platform y su aplicación para aportar valor empresarial mediante Power Apps, Dataverse y Power Automate."
+  organization: "Microsoft"
+  organization_url: "https://www.microsoft.com/"
+  title: "Microsoft Certified: Power Platform Fundamentals"
+  url: "https://learn.microsoft.com/en-us/credentials/certifications/power-platform-fundamentals/"
+  
+- certificate_url: "https://learn.microsoft.com/en-us/users/carlosatc/credentials/a14ab525abffc2f7"
+  date_end: "2027-08-27"
   date_start: "2026-08-27"
   description: "Métodos y buenas prácticas para modelar, visualizar y analizar datos con Microsoft Power BI para cumplir con los requisitos empresariales y técnicos."
   organization: "Microsoft"

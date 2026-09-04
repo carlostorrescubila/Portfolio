@@ -22,9 +22,18 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item:
-- certificate_url: "https://learn.microsoft.com/en-us/users/carlosatc/credentials/a14ab525abffc2f7"
+item:item:
+- certificate_url: "https://learn.microsoft.com/en-us/users/carlosatc/credentials/f9dc65b231ff0fcf"
   date_end: ""
+  date_start: "2026-09-04"
+  description: "Basic knowledge of the capabilities of Microsoft Power Platform and their application to deliver business value through Power Apps, Dataverse, and Power Automate."  
+  organization: "Microsoft"
+  organization_url: "https://www.microsoft.com/"
+  title: "Microsoft Certified: Power Platform Fundamentals"
+  url: "https://learn.microsoft.com/en-us/credentials/certifications/power-platform-fundamentals/"
+  
+- certificate_url: "https://learn.microsoft.com/en-us/users/carlosatc/credentials/a14ab525abffc2f7"
+  date_end: "2027-08-27"
   date_start: "2026-08-27"
   description: "Methods and best practices for modeling, visualizing and analyzing data with Microsoft Power BI to meet business and technical requirements."
   organization: "Microsoft"
